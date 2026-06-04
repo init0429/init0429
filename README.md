@@ -51,12 +51,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=init0429&show_icons=true&theme=radical&hide_border=true" alt="init0429's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=init0429&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
-
-<br>
-
-## 📫 Connect with me
-<p align="left">
-  <a href="mailto:내이메일@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <!-- 블로그나 다른 SNS가 있다면 아래 주소를 변경해 연결하세요 -->
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-</p>
