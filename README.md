@@ -1,7 +1,7 @@
 # 👋 Hi, I'm initialize (init0429)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=200&section=header&text=initialize&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00aaff&text=initialize&fontSize=70" />
 </p>
 
 > **Every great system starts with an initialization.** Welcome to my profile! 🚀
