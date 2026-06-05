@@ -21,12 +21,17 @@
 
 ### 🚀 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py,ruby&perline=7" />
 </p>
 
 ### 💻 Frontend & Build
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,vite,react,tailwind&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,vite,react,tailwind,nextjs&perline=6" />
+</p>
+
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql&perline=5" />
 </p>
 
 ### 🔧 Tools
