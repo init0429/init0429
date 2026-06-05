@@ -21,7 +21,7 @@
 
 ### 🚀 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,py,ruby,dart&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,ruby,dart,flutter&perline=7" />
 </p>
 
 ### 💻 Frontend & Build
@@ -36,7 +36,7 @@
 
 ### 🔧 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma&perline=5" />
 </p>
 
 <br>
