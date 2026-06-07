@@ -26,12 +26,12 @@
 
 ### 💻 Frontend & Build
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,vite,react,tailwind,nextjs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,vite,react,nextjs,tailwind&perline=6" />
 </p>
 
 ### 🗄️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql&perline=5" />
+  <img src="https://skillicons.dev/icons?i=sql,mysql&perline=5" />
 </p>
 
 ### 🔧 Tools
