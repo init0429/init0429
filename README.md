@@ -31,7 +31,7 @@
 
 ### 🗄️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sql,mysql&perline=5" />
+  <img src="https://skillicons.dev/icons?i=supabase,mysql&perline=5" />
 </p>
 
 ### 🔧 Tools
