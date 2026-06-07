@@ -36,7 +36,7 @@
 
 ### 🔧 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,npm,figma,blender&perline=5" />
 </p>
 
 <br>
